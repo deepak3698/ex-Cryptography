@@ -1,4 +1,4 @@
-input_val="meri jaan"
+input_val="Hello Deepak"
 
 list1=[5,9,12,16,18,22,17,45,84,134,234,146,275,246,232,123,304,307,301,312,305,308,328,322]
 list1=list(dict.fromkeys(list1))
